@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... pro
 >
 
+
+
+## My Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ForbiddenLinkers&show_icons=true&locale=en&langs_count=15&theme=tokyonight" alt="ForbiddenLinkers" /></p>
+
+![MY Git Stats](https://github-readme-stats.vercel.app/api?username=ForbiddenLinkers&include_all_commits=true&count_private=true&theme=lightgreen)
