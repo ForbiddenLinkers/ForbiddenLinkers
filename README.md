@@ -14,27 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... IDK
 - ⚡ Fun fact: ... pro
 >
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-<br >
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-#### What is CoderOne?
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-#### Coding Stats
-<!--START_SECTION:waka-->
-```text
-JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   62.29 % 
-HTML         62 hr 50 mins    ████████████████████░░░░░░░   78.61 % 
-Python     52 hr 27 mins    ████████████████░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-```
-<!--END_SECTION:waka-->
-</details>
-
+#### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ForbiddenLinkers.ForbiddenLinkers)
 
 
 ## My Stats
